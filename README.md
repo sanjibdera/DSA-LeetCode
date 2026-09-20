@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
