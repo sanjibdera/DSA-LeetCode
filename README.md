@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
