@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjibdera/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 ## Trie
 |  |
