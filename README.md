@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Design
 |  |
 | ------- |
@@ -82,4 +85,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
