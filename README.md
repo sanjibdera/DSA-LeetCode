@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
