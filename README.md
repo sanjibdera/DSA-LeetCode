@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
