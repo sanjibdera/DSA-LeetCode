@@ -13,6 +13,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjibdera/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
