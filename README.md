@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
