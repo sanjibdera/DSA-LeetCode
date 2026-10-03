@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0041-first-missing-positive) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
@@ -31,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Math
