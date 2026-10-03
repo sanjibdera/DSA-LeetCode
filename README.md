@@ -17,6 +17,7 @@
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1572-matrix-diagonal-sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjibdera/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1572-matrix-diagonal-sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
