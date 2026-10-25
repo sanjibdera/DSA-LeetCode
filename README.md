@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@
 | [0015-3sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0018-4sum) |
+| [0435-non-overlapping-intervals](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Math
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
@@ -110,6 +113,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/sanjibdera/DSA-LeetCode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
